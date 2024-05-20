@@ -1,0 +1,4 @@
+C:\Users\LENOVO\source\repos\wslny\wslny\x64\Debug\wslny.vcxproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\wslny\wslny\x64\Debug\wslny.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\wslny\wslny\x64\Debug\wslny.MyForm.resources
+C:\Users\LENOVO\source\repos\wslny\wslny\x64\Debug\wslny.vcxproj.GenerateResource.cache
